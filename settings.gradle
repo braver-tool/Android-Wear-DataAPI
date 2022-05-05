@@ -1,0 +1,22 @@
+/*
+ *  Created by https://github.com/braver-tool on 05/05/22, 12:10 PM
+ *  Copyright (c) 2022 . All rights reserved.
+ */
+
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "Android-Wear-DataAPI"
+include ':app'
+include ':wearApp'

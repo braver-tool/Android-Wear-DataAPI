@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~  Created by https://github.com/braver-tool on 05/05/22, 12:10 PM
+  ~  Copyright (c) 2022 . All rights reserved.
+  -->
+
+<resources>
+    <color name="purple_200">#6BF8EA</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="purple_700">#1FB5B3</color>
+    <color name="teal_700">#359594</color>
+    <color name="purple_500">#077C7B</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>
